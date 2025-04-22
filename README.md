@@ -13,7 +13,7 @@ EDtunnel is a proxy tool based on Cloudflare Workers and Pages, supporting multi
 
 ## ✨ 特性 | Features
 
-- 支持 Cloudflare Workers 和 Pages 部署
+- 支持 Cloudflare Workers 和 Pages 部
 - 支持多 UUID 配置
 - 支持自定义代理 IP 和端口
 - 支持 SOCKS5 代理
